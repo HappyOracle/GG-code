@@ -1,8 +1,6 @@
 # GG-code
 
-я дед инсайд и мне 8 лет. Я тихо ломаю свои шмотки и иду руинить. Как только я заруню, а потом иду на мид и стою афк будто меня это не касается 
-
-
+Прочее
 
 from telethon import TelegramClient, events
 client = TelegramClient('anon', api_id=17876697, api_hash='f57224fa791de500d30a17a4fbb650ec')
